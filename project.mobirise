@@ -68,7 +68,7 @@
             "contentAlign": "center",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1406.jpg",
-            "parallax": true,
+            "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#fff8e0",
             "bgVideoRadio": false,
@@ -80,7 +80,7 @@
             "overlayOpacity": "0.3"
           },
           "title": "<b>Что такое <br>СРА-маркетинг</b>",
-          "text": "<b>&nbsp;CPA</b> &nbsp;маркетинг\n<br>или<br>партнёрский маркетинг <br>\n<br><b>УЗНАТЬ &nbsp; &nbsp;ВСЕ &nbsp;</b><br><b>ПОДРОБНО</b><br><b>и </b><br><b>&nbsp; ПОЛУЧИТЬ &nbsp;</b><br><b>БОЛЬШОЙ &nbsp; БОНУС</b><br><br>Можно будет &nbsp;после подписки на &nbsp;товар<br><br><br><br><b><br></b><br><b><br></b><br><b><br></b><br><b><br></b><br><b><br></b><br><br><b><br></b><br><b><br></b> &nbsp;<br>",
+          "text": "<b>&nbsp;CPA</b> &nbsp;маркетинг\n<br>или<br>партнёрский маркетинг <br>\n<br><b><br></b><br><br><br><br><br><br><br><br><br><br><b>УЗНАТЬ &nbsp; &nbsp;ВСЕ &nbsp;</b><br><b>ПОДРОБНО</b><br><b>и </b><br><b>&nbsp; ПОЛУЧИТЬ &nbsp;</b><br><b>БОЛЬШОЙ &nbsp; БОНУС</b><br><br>Можно будет &nbsp;после подписки на &nbsp;товар<br><br><br><br><b><br></b><br><b><br></b><br><b><br></b><br><b><br></b><br><b><br></b><br><br><b><br></b><br><b><br></b> &nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Download Now</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\">Learn More</a>",
           "alias": "purity/components",
           "_tags": [
